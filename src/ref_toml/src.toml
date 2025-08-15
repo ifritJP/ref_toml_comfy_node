@@ -1,0 +1,14 @@
+time = [
+"morning",
+"noon",
+"evening",
+]
+background = [
+"ocean",
+"mountain",
+"city",
+]
+animal = [
+"dogs",
+"cats",
+]
